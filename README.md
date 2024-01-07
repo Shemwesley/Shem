@@ -1,1 +1,1 @@
-# Shem
+# COURSE_PROJECT
